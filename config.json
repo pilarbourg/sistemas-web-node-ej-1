@@ -1,0 +1,7 @@
+{
+  "interval": 5000,
+  "showCPU": true,
+  "showMemory": true,
+  "showSystemUptime": true,
+  "showNodeUptime": true
+}
